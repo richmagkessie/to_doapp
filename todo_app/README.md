@@ -26,4 +26,4 @@ Running the project:
        > python3 manage.py runserver  
 
 
-#### Go ahead and clone and follow the steps to run application server
+#### Go ahead, clone and follow the steps to run application server
